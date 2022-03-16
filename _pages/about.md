@@ -32,4 +32,4 @@ I work in Medical Informatics, and my research interests are in healthcare inter
 
 This page is still under construction!
 
-Slava Ukraina! 🇺🇦
+Слава Україні! 🇺🇦
