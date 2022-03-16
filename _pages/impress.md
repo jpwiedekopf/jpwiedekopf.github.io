@@ -9,7 +9,7 @@ Die folgenden Angaben entsprechen den Vorgaben von § 5 TMG:
 
 ## Adresse
 
-Joshua Wiedekopf
+Joshua Wiedekopf, M.Sc.
 
 IT Center for Clinical Research, Universität zu Lübeck
 
