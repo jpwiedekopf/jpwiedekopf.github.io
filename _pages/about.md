@@ -30,6 +30,6 @@ Hi! I'm Joshua, and I'm a research associate in the IT Center for Clinical Resea
 
 I work in Medical Informatics, and my research interests are in healthcare interoperability, especially on semantic interoperability using HL7 FHIR 🔥 terminology resources.
 
-This page is still under construction!
+*This page is still under construction!*
 
-Слава Україні! :ukraine:
+**Слава Україні! :ukraine:**
