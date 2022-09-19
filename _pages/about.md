@@ -32,4 +32,6 @@ I work in Medical Informatics, and my research interests are in healthcare inter
 
 *This page is still under construction!*
 
+If you want to book an appointment with me, you'll find booking links [here](/booking).
+
 **Слава Україні! :ukraine:**

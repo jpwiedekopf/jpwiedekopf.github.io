@@ -19,7 +19,7 @@ Ratzeburger Allee 160
 
 ## Kontaktdaten
 
-E-Mail-Adresse: jpwiedekopf@gmail.com
+E-Mail-Adresse: joshua AT wiedekopf DOT net
 
 ## Haftung für Inhalte
 
