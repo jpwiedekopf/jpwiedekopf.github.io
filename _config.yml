@@ -86,6 +86,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: Musings  # your blog must have a name for it to show up in the nav bar
+blog_enabled: false
 blog_description: Thoughts on interoperability in Medical Informatics, and programming stuff.
 permalink: /blog/:year/:title/
 
