@@ -1,11 +1,9 @@
 ---
 layout: page
 permalink: /games
-title: Steamdeck Game Library
+title: Steamdeck Game Library as of: 2023-07-08
 nav: false
 ---
-
-# Steamdeck Game Library as of: 2023-07-08
 
 ## Steamdeck (256 GiB)
 
@@ -14,6 +12,7 @@ nav: false
 - Hotline Miami 2 (0.6 GiB)
 - Hotline Miami (0.6 GiB)
 - DREDGE (0.6 GiB)
+- Papers Please ()
 - Kingdom: New Lands (0.3 GiB)
 - Kingdom: Classic (0.3 GiB)
 
@@ -51,5 +50,6 @@ nav: false
 - Trine (4 GiB)
 - Half Life 2 (4 GiB)
 - Flower (2 GiB)
+- The Stanley Parable (1 GiB)
 - Half Life 2: Episode One (2 GiB)
 - Half Life 2: Lost Coast (0.4 GiB)
