@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /games
-title: Steamdeck Game Library as of: 2023-07-08
+title: Steamdeck Game Library as of 2023-07-08
 nav: false
 ---
 
