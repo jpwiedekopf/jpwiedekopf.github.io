@@ -12,7 +12,7 @@ nav: false
 - Hotline Miami 2 (0.6 GiB)
 - Hotline Miami (0.6 GiB)
 - DREDGE (0.6 GiB)
-- Papers Please ()
+- Papers Please (0.1 GiB)
 - Kingdom: New Lands (0.3 GiB)
 - Kingdom: Classic (0.3 GiB)
 
