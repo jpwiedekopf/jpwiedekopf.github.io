@@ -7,7 +7,6 @@ nav: false
 
 ## Steamdeck (256 GiB)
 
-- It Takes Two (46 GB)
 - Hades (11 GiB)
 - Hotline Miami 2 (0.6 GiB)
 - Hotline Miami (0.6 GiB)
@@ -19,14 +18,13 @@ nav: false
 ## SD1 (512 GiB Samsung Pro Plus)
 
 - Mass Effect Legendary Edition (110 GiB)
-- Spider-Man (66 GiB)
-- Spider-Man Miles Morales (47 GiB)
+- Spider-Man (67 GiB)
+- Spider-Man Miles Morales (48 GiB)
 - Black Mesa (28 GiB)
-- Euro Truck Simulator 2 (24 GiB)
-- Escape Simulator (21 GiB)
+- Euro Truck Simulator 2 (26 GiB)
+- Escape Simulator (22 GiB)
 - American Truck Simulator (16 GiB)
-- Darksiders II (12 GiB)
-- A Hat in Time (7 GiB)
+- A Hat in Time (14 GiB)
 - Transistor (3 GiB)
 - SUPERHOT: Mind Control Delete (2 GiB)
 - Mark of the Ninja (2 GiB)
@@ -41,7 +39,7 @@ nav: false
 
 ## SD3 (128 GiB Sandisk Extreme)
 
-- Train Sim World 2 (51 GiB)
+- Train Sim World 3 (51 GiB)
 - Emergency 20 (15 GiB)
 - Dishonored (13 GiB)
 - Lego Marvel Super Heroes (6 GiB)
