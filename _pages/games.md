@@ -7,6 +7,7 @@ nav: false
 
 ## Steamdeck (256 GiB)
 
+- Starfield (120 GiB)
 - Hades (11 GiB)
 - Hotline Miami 2 (0.6 GiB)
 - Hotline Miami (0.6 GiB)
