@@ -1,0 +1,1066 @@
+[
+	{
+		"id": "kurscheidtTrustUniformityFHIR2024",
+		"type": "article-journal",
+		"abstract": "Introduction: The German Portal for Medical Research Data (FDPG) is the central access point for researchers in the German Medical Informatics Initiative (MII) for performing feasibility queries, creating data usage project requests and enabling data extraction of healthcare data across 39 university [for full text, please go to the a.m. URL]",
+		"container-title": "Gesundheit – gemeinsam. Kooperationstagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie (GMDS), Deutschen Gesellschaft für Sozialmedizin und Prävention (DGSMP), Deutschen Gesellschaft für Epidemiologie (DGEpi), Deutschen Gesellschaft für Medizinische Soziologie (DGMS) und der Deutschen Gesellschaft für Public Health (DGPH)",
+		"DOI": "10.3205/24GMDS011",
+		"language": "en",
+		"license": "Creative Commons Attribution 4.0 International",
+		"note": "medium: text/html\npublisher: German Medical Science GMS Publishing House",
+		"source": "DOI.org (Datacite)",
+		"title": "Trust and Uniformity through FHIR Validation: A Proposal for Establishing Guarantees in Cross-Institutional Healthcare Data Exchange",
+		"title-short": "Trust and Uniformity through FHIR Validation",
+		"URL": "https://www.egms.de/en/meetings/gmds2024/24gmds011.shtml",
+		"author": [
+			{
+				"family": "Kurscheidt",
+				"given": "Maximilian"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Gruendner",
+				"given": "Julian"
+			},
+			{
+				"family": "Triefenbach",
+				"given": "Lucas"
+			},
+			{
+				"family": "Schweizer",
+				"given": "Simon Tobias"
+			},
+			{
+				"family": "Saß",
+				"given": "Julian"
+			},
+			{
+				"family": "Wettstein",
+				"given": "Reto"
+			},
+			{
+				"family": "Hund",
+				"given": "Hauke"
+			},
+			{
+				"family": "Uliczka",
+				"given": "Bettina"
+			},
+			{
+				"family": "Fegeler",
+				"given": "Christian"
+			},
+			{
+				"family": "Rosenau",
+				"given": "Lorenz"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "wiedekopfFHIRTerminologyModule2024",
+		"type": "article-journal",
+		"abstract": "Introduction: To ensure interoperability in the healthcare sector and thus the exchange and reuse of distributed data, standards are particularly necessary. Besides the needed alignment to structural standards and harmonized data models, a consistent coding of content is crucial to be able to interpret [for full text, please go to the a.m. URL]",
+		"container-title": "Gesundheit – gemeinsam. Kooperationstagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie (GMDS), Deutschen Gesellschaft für Sozialmedizin und Prävention (DGSMP), Deutschen Gesellschaft für Epidemiologie (DGEpi), Deutschen Gesellschaft für Medizinische Soziologie (DGMS) und der Deutschen Gesellschaft für Public Health (DGPH)",
+		"DOI": "10.3205/24GMDS008",
+		"language": "en",
+		"license": "Creative Commons Attribution 4.0 International",
+		"note": "medium: text/html\npublisher: German Medical Science GMS Publishing House",
+		"source": "DOI.org (Datacite)",
+		"title": "The FHIR Terminology Module and its Implications for the Use of Coded Data in Modern Data Integration",
+		"URL": "https://www.egms.de/en/meetings/gmds2024/24gmds008.shtml",
+		"author": [
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "wiedekopfDesiderataSyntheticClinical2021",
+		"type": "article-journal",
+		"abstract": "The current movement in Medical Informatics towards comprehensive Electronic Health Records (EHRs) has enabled a wide range of secondary use cases for this data. However, due to a number of well-justified concerns and barriers, especially with regards to information privacy, access to real medical records by researchers is often not possible, and indeed not always required. An appealing alternative to the use of real patient data is the employment of a generator for realistic, yet synthetic, EHRs. However, we have identified a number of shortcomings in prior works, especially with regards to the adaptability of the projects to the requirements of the German healthcare system. Based on three case studies, we define a non-exhaustive list of requirements for an ideal generator project that can be used in a wide range of localities and settings, to address and enable future work in this regard.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"DOI": "10.3233/SHTI210122",
+		"ISSN": "1879-8365",
+		"journalAbbreviation": "Stud Health Technol Inform",
+		"language": "eng",
+		"license": "All rights reserved",
+		"note": "PMID: 34042707",
+		"page": "68-72",
+		"source": "PubMed",
+		"title": "Desiderata for a Synthetic Clinical Data Generator",
+		"volume": "281",
+		"author": [
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			},
+			{
+				"family": "Essenwanger",
+				"given": "Andrea"
+			},
+			{
+				"family": "Kiel",
+				"given": "Alexander"
+			},
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "wiedekopfTermiCronBridgingGap2022",
+		"type": "article-journal",
+		"abstract": "The large variability of data models, specifications, and interpretations of data elements is particular to the healthcare domain. Achieving semantic interoperability is the first step to enable reuse of healthcare data. To ensure interoperability, metadata repositories (MDR) are increasingly used to manage data elements on a structural level, while terminology servers (TS) manage the ontologies, terminologies, coding systems and value sets on a semantic level. In practice, however, this strict separation is not always followed; instead, semantical information is stored and maintained directly in the MDR, as a link between both systems is missing. This may be reasonable up to a certain level of complexity, but it quickly reaches its limitations with increasing complexity. The goal of this approach is to combine both components in a compatible manner. We present TermiCron, a synchronization engine that provides synchronized value sets from TS in MDRs, including versioning and annotations. Prototypical results were shown for the terminology server Ontoserver and two established MDR systems. Bridging the semantic and structural gap between the two infrastructure components, this approach enables shared use of metadata and reuse of corresponding health information by establishing a clear separation of the two systems and thus serves to strengthen reuse as well as to increase quality.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"DOI": "10.3233/SHTI220034",
+		"ISSN": "1879-8365",
+		"journalAbbreviation": "Stud Health Technol Inform",
+		"language": "eng",
+		"license": "All rights reserved",
+		"note": "PMID: 35672973",
+		"page": "71-75",
+		"source": "PubMed",
+		"title": "TermiCron - Bridging the Gap Between FHIR Terminology Servers and Metadata Repositories",
+		"volume": "290",
+		"author": [
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			},
+			{
+				"family": "Drenkhahn",
+				"given": "Cora"
+			},
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "wiedekopfProvidingARTDECORValueSets2021",
+		"type": "article-journal",
+		"abstract": "To ensure semantic interoperability within healthcare systems, using common, curated terminological systems to identify relevant concepts is of fundamental importance. The HL7 FHIR standard specifies means of modelling terminological systems and appropriate ways of accessing and querying these artefacts within a terminology server. Hence, initiatives towards healthcare interoperability like IHE specify not only software interfaces, but also common codes in the form of value sets and code systems. The way in which these coding tables are provided is not necessarily compatible to the current version of the HL7 FHIR specification and therefore cannot be used with current HL7 FHIR-based terminology servers. This work demonstrates a conversion of terminological resources specified by the Integrating the Healthcare Initiative in the ART-DECOR platform, partly available in HL7 FHIR, to ensure that they can be used within a HL7 FHIR-based terminological server. The approach itself can be used for other terminological resources specified within ART-DECOR but can also be used as the basis for other code-driven conversions of proprietary coding schemes.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"DOI": "10.3233/SHTI210550",
+		"ISSN": "1879-8365",
+		"journalAbbreviation": "Stud Health Technol Inform",
+		"language": "eng",
+		"license": "All rights reserved",
+		"note": "PMID: 34545828",
+		"page": "127-135",
+		"source": "PubMed",
+		"title": "Providing ART-DECOR ValueSets via FHIR Terminology Servers - A Technical Report",
+		"volume": "283",
+		"author": [
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Drenkhahn",
+				"given": "Cora"
+			},
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			},
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "wiedekopfTerminoDiffDetectingSemantic2022",
+		"type": "article-journal",
+		"abstract": "While HL7 FHIR and its terminology package have seen a rapid uptake by the research community, in no small part due to the wide availability of tooling and resources, there are some areas where tool availability is still lacking. In particular, the comparison of terminological resources, which supports the work of terminologists and implementers alike, has not yet been sufficiently addressed. Hence, we present TerminoDiff, an application to semantically compare FHIR R4 CodeSystem resources. Our tool considers differences across all levels required, i.e. metadata and concept differences, as well as differences in the edge graph, and surfaces them in a visually digestible fashion.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"DOI": "10.3233/SHTI220475",
+		"ISSN": "1879-8365",
+		"journalAbbreviation": "Stud Health Technol Inform",
+		"language": "eng",
+		"license": "All rights reserved",
+		"note": "PMID: 35612097",
+		"page": "362-366",
+		"source": "PubMed",
+		"title": "TerminoDiff - Detecting Semantic Differences in HL7 FHIR CodeSystems",
+		"volume": "294",
+		"author": [
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Drenkhahn",
+				"given": "Cora"
+			},
+			{
+				"family": "Rosenau",
+				"given": "Lorenz"
+			},
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			},
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": "wiedekopfPerformanceBenchmarkingFHIR2023",
+		"type": "article-journal",
+		"abstract": "Interoperability in healthcare cannot be achieved without mapping local data to standardized terminology. In this paper, we investigate the performance of different approaches for implementing HL7 FHIR Terminology Module operations using a benchmarking methodology, to gather evidence on the benefits and pitfalls of these methods in terms of performance from the point-of-view of a terminology client. The approaches perform very differently, while having a local client-side cache for all operations is of supreme importance. The results of our investigation show that careful consideration of the integration environment, potential bottlenecks, and implementation strategies is required.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"DOI": "10.3233/SHTI230244",
+		"ISSN": "1879-8365",
+		"journalAbbreviation": "Stud Health Technol Inform",
+		"language": "eng",
+		"license": "All rights reserved",
+		"note": "PMID: 37203474",
+		"page": "707-710",
+		"source": "PubMed",
+		"title": "Performance Benchmarking of FHIR Terminology Operations in ETL Jobs",
+		"volume": "302",
+		"author": [
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Drenkhahn",
+				"given": "Cora"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "ulrichHandsMedicalInformatics2021",
+		"type": "chapter",
+		"abstract": "With the steady increase in the connectivity of the healthcare system, new requirements and challenges are emerging. In addition to the seamless exchange of data between service providers on a national level, the local legacy data must also meet the new requirements. For this purpose, the applications used must be tested securely and sufficiently. However, the availability of suitable and realistic test data is not always given. Therefore, this study deals with the creation of test data based on real electronic health record data provided by the Medical Information Mart for Intensive Care (MIMIC-IV) database. In addition to converting the data to the current FHIR R4, conversion to the core data sets of the German Medical Informatics Initiative was also presented and made available. The test data was generated to simulate a legacy data transfer. Moreover, four different FHIR servers were tested for performance. This study is the first step toward comparable test scenarios around shared datasets and promotes comparability among providers on a national level.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"ISBN": "978-1-64368-206-8",
+		"license": "https://creativecommons.org/licenses/by-nc/4.0/",
+		"note": "DOI: 10.3233/SHTI210549",
+		"publisher": "IOS Press",
+		"source": "DOI.org (Crossref)",
+		"title": "Hands on the Medical Informatics Initiative Core Data Set — Lessons Learned from Converting the MIMIC-IV",
+		"URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI210549",
+		"editor": [
+			{
+				"family": "Röhrig",
+				"given": "Rainer"
+			},
+			{
+				"family": "Beißbarth",
+				"given": "Tim"
+			},
+			{
+				"family": "König",
+				"given": "Jochem"
+			},
+			{
+				"family": "Ose",
+				"given": "Claudia"
+			},
+			{
+				"family": "Rauch",
+				"given": "Geraldine"
+			},
+			{
+				"family": "Sax",
+				"given": "Ulrich"
+			},
+			{
+				"family": "Schreiweis",
+				"given": "Björn"
+			},
+			{
+				"family": "Sedlmayr",
+				"given": "Martin"
+			}
+		],
+		"author": [
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			},
+			{
+				"family": "Behrend",
+				"given": "Paul"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Drenkhahn",
+				"given": "Cora"
+			},
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "schladetzkyMettertronBridgingMetadata2023",
+		"type": "article-journal",
+		"abstract": "To provide clinical data in distributed research architectures, a fundamental challenge involves defining and distributing suitable metadata within Metadata Repositories. Especially for structured data, data elements need to be bound against suitable terminologies; otherwise, other systems will only be able to interpret the data with complex and error-prone manual involvement. As current Metadata Repository implementations lack support for querying externally defined terminologies in FHIR terminology servers, we propose an intermediate solution that uses appropriate annotations on metadata elements to allow run-time Terminology Services mediated queries of that metadata. This allows a very clear separation of concerns between the two related systems, greatly simplifying terminological maintenance. The system performed well in a prototypical deployment.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"DOI": "10.3233/SHTI230721",
+		"ISSN": "1879-8365",
+		"journalAbbreviation": "Stud Health Technol Inform",
+		"language": "eng",
+		"license": "All rights reserved",
+		"note": "PMID: 37697859",
+		"page": "243-248",
+		"source": "PubMed",
+		"title": "Mettertron - Bridging Metadata Repositories and Terminology Servers",
+		"volume": "307",
+		"author": [
+			{
+				"family": "Schladetzky",
+				"given": "Jan"
+			},
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Drenkhahn",
+				"given": "Cora"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "rosenauUncoveringHarmonizationPotential2024",
+		"type": "article-journal",
+		"abstract": "Background\n              Cross-institutional interoperability between health care providers remains a recurring challenge worldwide. The German Medical Informatics Initiative, a collaboration of 37 university hospitals in Germany, aims to enable interoperability between partner sites by defining Fast Healthcare Interoperability Resources (FHIR) profiles for the cross-institutional exchange of health care data, the Core Data Set (CDS). The current CDS and its extension modules define elements representing patients’ health care records. All university hospitals in Germany have made significant progress in providing routine data in a standardized format based on the CDS. In addition, the central research platform for health, the German Portal for Medical Research Data feasibility tool, allows medical researchers to query the available CDS data items across many participating hospitals.\n            \n            \n              Objective\n              In this study, we aimed to evaluate a novel approach of combining the current top-down generated FHIR profiles with the bottom-up generated knowledge gained by the analysis of respective instance data. This allowed us to derive options for iteratively refining FHIR profiles using the information obtained from a discrepancy analysis.\n            \n            \n              Methods\n              We developed an FHIR validation pipeline and opted to derive more restrictive profiles from the original CDS profiles. This decision was driven by the need to align more closely with the specific assumptions and requirements of the central feasibility platform’s search ontology. While the original CDS profiles offer a generic framework adaptable for a broad spectrum of medical informatics use cases, they lack the specificity to model the nuanced criteria essential for medical researchers. A key example of this is the necessity to represent specific laboratory codings and values interdependencies accurately. The validation results allow us to identify discrepancies between the instance data at the clinical sites and the profiles specified by the feasibility platform and addressed in the future.\n            \n            \n              Results\n              A total of 20 university hospitals participated in this study. Historical factors, lack of harmonization, a wide range of source systems, and case sensitivity of coding are some of the causes for the discrepancies identified. While in our case study, Conditions, Procedures, and Medications have a high degree of uniformity in the coding of instance data due to legislative requirements for billing in Germany, we found that laboratory values pose a significant data harmonization challenge due to their interdependency between coding and value.\n            \n            \n              Conclusions\n              While the CDS achieves interoperability, different challenges for federated data access arise, requiring more specificity in the profiles to make assumptions on the instance data. We further argue that further harmonization of the instance data can significantly lower required retrospective harmonization efforts. We recognize that discrepancies cannot be resolved solely at the clinical site; therefore, our findings have a wide range of implications and will require action on multiple levels and by various stakeholders.",
+		"container-title": "JMIR Medical Informatics",
+		"DOI": "10.2196/57005",
+		"ISSN": "2291-9694",
+		"journalAbbreviation": "JMIR Med Inform",
+		"language": "en",
+		"license": "All rights reserved",
+		"page": "e57005",
+		"source": "DOI.org (Crossref)",
+		"title": "Uncovering Harmonization Potential in Health Care Data Through Iterative Refinement of Fast Healthcare Interoperability Resources Profiles Based on Retrospective Discrepancy Analysis: Case Study",
+		"title-short": "Uncovering Harmonization Potential in Health Care Data Through Iterative Refinement of Fast Healthcare Interoperability Resources Profiles Based on Retrospective Discrepancy Analysis",
+		"URL": "https://medinform.jmir.org/2024/1/e57005",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Rosenau",
+				"given": "Lorenz"
+			},
+			{
+				"family": "Behrend",
+				"given": "Paul"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Gruendner",
+				"given": "Julian"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "ohlsenReformattedCrosswalkTablesAnnual2024",
+		"type": "chapter",
+		"abstract": "The International Statistical Classification of Diseases and Related Health Problems, 10th Revision (ICD-10) is internationally used for coding diagnoses, with the ICD-10 German Modification (GM) being prescribed for morbidity coding in Germany. ICD-10-GM is subject to annual revisions. This can lead to backward compatibility issues leading to undesirable consequences for cross-version data analysis. A study of annual crosswalk-tables concerning 21 ICD-10-GM versions showed that the ratio of difficult transitions from an older to a newer version (0.89 %) and vice versa (0.48 %) is not particularly significant but should nevertheless not be neglected. In this paper we present two solutions (Neo4J database and FHIR ConceptMaps) for the automated handling of different ICD-10-GM versions.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"ISBN": "978-1-64368-533-5",
+		"license": "https://creativecommons.org/licenses/by-nc/4.0/",
+		"note": "DOI: 10.3233/SHTI240652",
+		"publisher": "IOS Press",
+		"source": "DOI.org (Crossref)",
+		"title": "Reformatted Crosswalk-Tables Between Annual ICD-10-Versions for Cross Version Data Analysis",
+		"URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI240652",
+		"editor": [
+			{
+				"family": "Mantas",
+				"given": "John"
+			},
+			{
+				"family": "Hasman",
+				"given": "Arie"
+			},
+			{
+				"family": "Demiris",
+				"given": "George"
+			},
+			{
+				"family": "Saranto",
+				"given": "Kaija"
+			},
+			{
+				"family": "Marschollek",
+				"given": "Michael"
+			},
+			{
+				"family": "Arvanitis",
+				"given": "Theodoros N."
+			},
+			{
+				"family": "Ognjanović",
+				"given": "Ivana"
+			},
+			{
+				"family": "Benis",
+				"given": "Arriel"
+			},
+			{
+				"family": "Gallos",
+				"given": "Parisis"
+			},
+			{
+				"family": "Zoulias",
+				"given": "Emmanouil"
+			},
+			{
+				"family": "Andrikopoulou",
+				"given": "Elisavet"
+			}
+		],
+		"author": [
+			{
+				"family": "Ohlsen",
+				"given": "Tessa"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "kruseGenericTransformationApproach2024",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              Background\n              Reaching meaningful interoperability between proprietary health care systems is a ubiquitous task in medical informatics, where communication servers are traditionally used for referring and transforming data from the source to target systems. The Mirth Connect Server, an open-source communication server, offers, in addition to the exchange functionality, functions for simultaneous manipulation of data. The standard Fast Healthcare Interoperability Resources (FHIR) has recently become increasingly prevalent in national health care systems. FHIR specifies its own standardized mechanisms for transforming data structures using StructureMaps and the FHIR mapping language (FML).\n            \n            \n              Objective\n              In this study, a generic approach is developed, which allows for the application of declarative mapping rules defined using FML in an exchangeable manner. A transformation engine is required to execute the mapping rules.\n            \n            \n              Methods\n              FHIR natively defines resources to support the conversion of instance data, such as an FHIR StructureMap. This resource encodes all information required to transform data from a source system to a target system. In our approach, this information is defined in an implementation-independent manner using FML. Once the mapping has been defined, executable Mirth channels are automatically generated from the resources containing the mapping in JavaScript format. These channels can then be deployed to the Mirth Connect Server.\n            \n            \n              Results\n              \n                The resulting tool is called FML2Mirth, a Java-based transformer that derives Mirth channels from detailed declarative mapping rules based on the underlying StructureMaps. Implementation of the\n                translate\n                functionality is provided by the integration of a terminology server, and to achieve conformity with existing profiles, validation via the FHIR validator is built in. The system was evaluated for its practical use by transforming Labordatenträger version 2 (LDTv.2) laboratory results into Medical Information Object (\n                Medizinisches Informationsobjekt\n                ) laboratory reports in accordance with the National Association of Statutory Health Insurance Physicians’ specifications and into the HL7 (Health Level Seven) Europe Laboratory Report. The system could generate complex structures, but LDTv.2 lacks some information to fully comply with the specification.\n              \n            \n            \n              Conclusions\n              The tool for the auto-generation of Mirth channels was successfully presented. Our tests reveal the feasibility of using the complex structures of the mapping language in combination with a terminology server to transform instance data. Although the Mirth Server and the FHIR are well established in medical informatics, the combination offers space for more research, especially with regard to FML. Simultaneously, it can be stated that the mapping language still has implementation-related shortcomings that can be compensated by Mirth Connect as a base technology.",
+		"container-title": "JMIR Medical Informatics",
+		"DOI": "10.2196/57569",
+		"ISSN": "2291-9694",
+		"journalAbbreviation": "JMIR Med Inform",
+		"language": "en",
+		"page": "e57569-e57569",
+		"source": "DOI.org (Crossref)",
+		"title": "A Generic Transformation Approach for Complex Laboratory Data Using the Fast Healthcare Interoperability Resources Mapping Language: Method Development and Implementation",
+		"title-short": "A Generic Transformation Approach for Complex Laboratory Data Using the Fast Healthcare Interoperability Resources Mapping Language",
+		"URL": "https://medinform.jmir.org/2024/1/e57569",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Kruse",
+				"given": "Jesse"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Essenwanger",
+				"given": "Andrea"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			},
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					10,
+					18
+				]
+			]
+		}
+	},
+	{
+		"id": "kock-schoppenhauerMedicalDataEngineering2021",
+		"type": "chapter",
+		"container-title": "Advances in Model and Data Engineering in the Digitalization Era",
+		"event-place": "Cham",
+		"ISBN": "978-3-030-87656-2",
+		"language": "en",
+		"license": "All rights reserved",
+		"note": "collection-title: Communications in Computer and Information Science\nDOI: 10.1007/978-3-030-87657-9_21",
+		"page": "269-284",
+		"publisher": "Springer International Publishing",
+		"publisher-place": "Cham",
+		"source": "DOI.org (Crossref)",
+		"title": "Medical Data Engineering – Theory and Practice",
+		"URL": "https://link.springer.com/10.1007/978-3-030-87657-9_21",
+		"volume": "1481",
+		"editor": [
+			{
+				"family": "Bellatreche",
+				"given": "Ladjel"
+			},
+			{
+				"family": "Chernishev",
+				"given": "George"
+			},
+			{
+				"family": "Corral",
+				"given": "Antonio"
+			},
+			{
+				"family": "Ouchani",
+				"given": "Samir"
+			},
+			{
+				"family": "Vain",
+				"given": "Jüri"
+			}
+		],
+		"author": [
+			{
+				"family": "Kock-Schoppenhauer",
+				"given": "Ann-Kristin"
+			},
+			{
+				"family": "Schreiweis",
+				"given": "Björn"
+			},
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			},
+			{
+				"family": "Reimer",
+				"given": "Niklas"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Kinast",
+				"given": "Benjamin"
+			},
+			{
+				"family": "Busch",
+				"given": "Hauke"
+			},
+			{
+				"family": "Bergh",
+				"given": "Björn"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "ammonArbeitsgruppeInteroperabilitaetKerndatensatz2024",
+		"type": "article-journal",
+		"abstract": "Zusammenfassung\n            Die Arbeitsgruppe Interoperabilität der Medizininformatik-Initiative (MII) ist die Plattform für die Abstimmung übergreifender Vorgehensweisen, Datenstrukturen und Schnittstellen zwischen den Datenintegrationszentren (DIZ) der Universitätskliniken und nationalen bzw. internationalen Interoperabilitätsgremien. Ziel ist die gemeinsame inhaltliche und technische Ausgestaltung einer über das Forschungsdatenportal für Gesundheit nutzbaren verteilten Infrastruktur zur Sekundärnutzung klinischer Versorgungsdaten. Wichtige Rahmenbedingungen sind dabei Datenschutz und IT-Sicherheit für die Nutzung von Gesundheitsdaten in der biomedizinischen Forschung. Hierfür werden in dezidierten Taskforces geeignete Methoden eingesetzt, um prozessuale, syntaktische und semantische Interoperabilität für Datennutzungsprojekte zu ermöglichen. So wurde der MII-Kerndatensatz, bestehend aus mehreren Modulen mit zugehörigen Informationsmodellen, entwickelt und mittels des Standards HL7® FHIR® implementiert, um fachliche und technische Vorgaben für die interoperable Datenbereitstellung von Versorgungsdaten durch die DIZ zu ermöglichen. Zur näheren Beschreibung dieser Datensätze dienen internationale Terminologien und konsentierte Metadaten. Die Gesamtarchitektur, einschließlich übergreifender Schnittstellen, setzt die methodischen und rechtlichen Anforderungen an eine verteilte Datennutzungsinfrastruktur z. B. durch Bereitstellung pseudonymisierter Daten oder föderierte Analysen um. Mit diesen Ergebnissen der Arbeitsgruppe Interoperabilität stellt die MII eine zukunftsweisende Lösung für den Austausch und die Nutzung von Routinedaten vor, deren Anwendbarkeit über den Zweck der Forschung hinausgeht und eine wesentliche Rolle in der digitalen Transformation des Gesundheitswesens spielen kann.\n          , \n            Abstract\n            The interoperability Working Group of the Medical Informatics Initiative (MII) is the platform for the coordination of overarching procedures, data structures, and interfaces between the data integration centers (DIC) of the university hospitals and national and international interoperability committees. The goal is the joint content-related and technical design of a distributed infrastructure for the secondary use of healthcare data that can be used via the Research Data Portal for Health. Important general conditions are data privacy and IT security for the use of health data in biomedical research. To this end, suitable methods are used in dedicated task forces to enable procedural, syntactic, and semantic interoperability for data use projects. The MII core dataset was developed as several modules with corresponding information models and implemented using the HL7® FHIR® standard to enable content-related and technical specifications for the interoperable provision of healthcare data through the DIC. International terminologies and consented metadata are used to describe these data in more detail. The overall architecture, including overarching interfaces, implements the methodological and legal requirements for a distributed data use infrastructure, for example, by providing pseudonymized data or by federated analyses. With these results of the Interoperability Working Group, the MII is presenting a future-oriented solution for the exchange and use of healthcare data, the applicability of which goes beyond the purpose of research and can play an essential role in the digital transformation of the healthcare system.",
+		"container-title": "Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz",
+		"DOI": "10.1007/s00103-024-03888-4",
+		"ISSN": "1436-9990, 1437-1588",
+		"issue": "6",
+		"journalAbbreviation": "Bundesgesundheitsbl",
+		"language": "de",
+		"license": "All rights reserved",
+		"page": "656-667",
+		"source": "DOI.org (Crossref)",
+		"title": "Arbeitsgruppe Interoperabilität: Kerndatensatz und Informationssysteme für Integration und Austausch von Daten in der Medizininformatik-Initiative",
+		"title-short": "Arbeitsgruppe Interoperabilität",
+		"URL": "https://link.springer.com/10.1007/s00103-024-03888-4",
+		"volume": "67",
+		"author": [
+			{
+				"family": "Ammon",
+				"given": "Danny"
+			},
+			{
+				"family": "Kurscheidt",
+				"given": "Maximilian"
+			},
+			{
+				"family": "Buckow",
+				"given": "Karoline"
+			},
+			{
+				"family": "Kirsten",
+				"given": "Toralf"
+			},
+			{
+				"family": "Löbe",
+				"given": "Matthias"
+			},
+			{
+				"family": "Meineke",
+				"given": "Frank"
+			},
+			{
+				"family": "Prasser",
+				"given": "Fabian"
+			},
+			{
+				"family": "Saß",
+				"given": "Julian"
+			},
+			{
+				"family": "Sax",
+				"given": "Ulrich"
+			},
+			{
+				"family": "Stäubert",
+				"given": "Sebastian"
+			},
+			{
+				"family": "Thun",
+				"given": "Sylvia"
+			},
+			{
+				"family": "Wettstein",
+				"given": "Reto"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua P."
+			},
+			{
+				"family": "Wodke",
+				"given": "Judith A. H."
+			},
+			{
+				"family": "Boeker",
+				"given": "Martin"
+			},
+			{
+				"family": "Ganslandt",
+				"given": "Thomas"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "drenkhahnWASPWebApplication2023",
+		"type": "article-journal",
+		"abstract": "Expressive clinical terminologies are of utmost importance for achieving a semantically interoperable data exchange and reuse in healthcare. SNOMED CT, widely respected as the most comprehensive terminology in medicine, provides formal concept definitions based on description logic which not only allows for advanced querying of SNOMED-CT-coded data but also for flexibly augmenting its 350,000 concepts by allowing a controlled combination of these. This ability for postcoordination largely increases the expressivity of the terminology but correlates with an intrinsic complexity. Complicated by the current lack of tooling support, postcoordination is widely either ignored or applied in an error-prone way. To help facilitate the adoption of postcoordination, we implemented a web application that guides users through the creation of postcoordinated expressions (PCEs) while ensuring adherence to syntactic and semantic constraints. Our approach was largely facilitated by making use of the extensive SNOMED CT specifications as well as advanced HL7 FHIR Terminology Services. Qualitative evaluations confirmed the usability of the developed application and the correctness of the PCEs created with it.",
+		"container-title": "Applied Sciences",
+		"DOI": "10.3390/app13106114",
+		"ISSN": "2076-3417",
+		"issue": "10",
+		"journalAbbreviation": "Applied Sciences",
+		"language": "en",
+		"license": "https://creativecommons.org/licenses/by/4.0/",
+		"page": "6114",
+		"source": "DOI.org (Crossref)",
+		"title": "WASP—A Web Application to Support Syntactically and Semantically Correct SNOMED CT Postcoordination",
+		"URL": "https://www.mdpi.com/2076-3417/13/10/6114",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Drenkhahn",
+				"given": "Cora"
+			},
+			{
+				"family": "Ohlsen",
+				"given": "Tessa"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Ingenerf",
+				"given": "Josef"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "ciortuzIntegrationWearablesUnd2024",
+		"type": "chapter",
+		"container-title": "Health Data Management",
+		"event-place": "Wiesbaden",
+		"ISBN": "978-3-658-43235-5",
+		"language": "de",
+		"license": "All rights reserved",
+		"note": "DOI: 10.1007/978-3-658-43236-2_31",
+		"page": "323-336",
+		"publisher": "Springer Fachmedien Wiesbaden",
+		"publisher-place": "Wiesbaden",
+		"source": "DOI.org (Crossref)",
+		"title": "Integration von Wearables und Nutzung von digitalen Biomarkern zur Diagnostik und Therapie im Gesundheitswesen",
+		"URL": "https://link.springer.com/10.1007/978-3-658-43236-2_31",
+		"editor": [
+			{
+				"family": "Henke",
+				"given": "Viola"
+			},
+			{
+				"family": "Hülsken",
+				"given": "Gregor"
+			},
+			{
+				"family": "Schneider",
+				"given": "Henning"
+			},
+			{
+				"family": "Varghese",
+				"given": "Julian"
+			}
+		],
+		"author": [
+			{
+				"family": "Ciortuz",
+				"given": "Gabriela"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Fudickar",
+				"given": "Sebastian"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "bennettMIMICIVFHIRConverting2023",
+		"type": "article-journal",
+		"abstract": "Abstract\n            \n              Objective\n              Convert the Medical Information Mart for Intensive Care (MIMIC)-IV database into Health Level 7 Fast Healthcare Interoperability Resources (FHIR). Additionally, generate and publish an openly available demo of the resources, and create a FHIR Implementation Guide to support and clarify the usage of MIMIC-IV on FHIR.\n            \n            \n              Materials and Methods\n              FHIR profiles and terminology system of MIMIC-IV were modeled from the base FHIR R4 resources. Data and terminology were reorganized from the relational structure into FHIR according to the profiles. Resources generated were validated for conformance with the FHIR profiles. Finally, FHIR resources were published as newline delimited JSON files and the profiles were packaged into an implementation guide.\n            \n            \n              Results\n              The modeling of MIMIC-IV in FHIR resulted in 25 profiles, 2 extensions, 35 ValueSets, and 34 CodeSystems. An implementation guide encompassing the FHIR modeling can be accessed at mimic.mit.edu/fhir/mimic. The generated demo dataset contained 100 patients and over 915 000 resources. The full dataset contained 315 000 patients covering approximately 5 840 000 resources. The final datasets in NDJSON format are accessible on PhysioNet.\n            \n            \n              Discussion\n              Our work highlights the challenges and benefits of generating a real-world FHIR store. The challenges arise from terminology mapping and profiling modeling decisions. The benefits come from the extensively validated openly accessible data created as a result of the modeling work.\n            \n            \n              Conclusion\n              The newly created MIMIC-IV on FHIR provides one of the first accessible deidentified critical care FHIR datasets. The extensive real-world data found in MIMIC-IV on FHIR will be invaluable for research and the development of healthcare applications.",
+		"container-title": "Journal of the American Medical Informatics Association",
+		"DOI": "10.1093/jamia/ocad002",
+		"ISSN": "1067-5027, 1527-974X",
+		"issue": "4",
+		"language": "en",
+		"license": "https://creativecommons.org/licenses/by/4.0/",
+		"page": "718-725",
+		"source": "DOI.org (Crossref)",
+		"title": "MIMIC-IV on FHIR: converting a decade of in-patient data into an exchangeable, interoperable format",
+		"title-short": "MIMIC-IV on FHIR",
+		"URL": "https://academic.oup.com/jamia/article/30/4/718/6998091",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Bennett",
+				"given": "Alex M"
+			},
+			{
+				"family": "Ulrich",
+				"given": "Hannes"
+			},
+			{
+				"family": "Van Damme",
+				"given": "Philip"
+			},
+			{
+				"family": "Wiedekopf",
+				"given": "Joshua"
+			},
+			{
+				"family": "Johnson",
+				"given": "Alistair E W"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					3,
+					16
+				]
+			]
+		}
+	}
+]

@@ -1,0 +1,125 @@
+baseURL: https://wiedekopf.net/
+languageCode: en-us
+title: Joshua Wiedekopf
+theme: 
+  - hugo-profile
+  - hugo-cite
+
+Menus:
+  main:
+    - identifier: publications
+      name: Publications
+      title: Publications
+      url: /publications
+      weight: 1
+
+params:
+  title: "Joshua Wiedekopf"
+  description: "Personal page for Joshua Wiedekopf"
+  useBootstrapCDN: true
+  animate: true
+  theme:
+    disableThemeToggle: true
+    defaultTheme: light
+  color:
+    textColor: "#fff"
+    secondaryTextColor: "#fff"
+    textLinkColor: "#ff0"
+    backgroundColor: "#003399" 
+    secondaryBackgroundColor: "#ff0"
+    primaryColor: "#ff0"
+    secondaryColor: "#fff"
+  navbar:
+    disableSearch: true
+    menus:
+      disableContact: true
+
+
+  hero:
+    enable: true
+    intro: "Moin! (Hi!) I'm"
+    title: "Joshua."
+    subtitle: "I build FHIR things 🔥"
+    content: "My things work towards healthcare systems working better together through the use of controlled terminology and HL7 FHIR Terminology Servers 🔥"
+    image: /images/me.png
+    bottomImage:
+      enable: true
+    roundImage: true # Make hero image circular | default false
+    button:
+      enable: true
+      name: "Publications"
+      url: "/publications"
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: "fa-brands fa-github"
+          url: https://github.com/jpwiedekopf
+        - icon: "fa-solid fa-fire"
+          url: https://mii-termserv.de/
+        - icon: "fa-brands fa-gitlab"
+          url: https://gitlab.com/mii-termserv/
+        - icon: "fa-brands fa-linkedin"
+          url: https://www.linkedin.com/in/jpwiedekopf
+        - icon: "fa-brands fa-bluesky"
+          url: https://bsky.app/profile/wiedekopf.net
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me-thw.png"
+    content: |-
+      By day, I'm a researcher in Medical Informatics at the University of Luebeck, Germany. 
+      I work with a passion towards better semantic interoperability in German healthcare systems 
+      within the [Medical Informatics Initiative](https://www.medizininformatik-initiative.de/en/start) and
+      [Network University Medicine](https://www.netzwerk-universitaetsmedizin.de/en/about-us/network-of-university-medicine)
+      through the [SU-TermServ project](https://mii-termserv.de/en) and am responsible for the central
+      FHIR 🔥 terminology server of the MII. 
+
+      By night, I volunteer in the [German Federal Agency for Technical Relief](https://www.thw.de), the German civil defense agency.
+
+  experience:
+    enable: true
+    items:
+      - job: "Researcher & PhD Student"
+        company: "University of Luebeck & University Medical Center, Luebeck, Germany"
+        date: "May 2020 - present"
+        featuredLink:
+          enable: true
+          name: "View the project"
+          url: "https://mii-termserv.de"
+        info:
+          enable: false
+        content: "I'm currently working in the SU-TermServ project and am the chief maintainer of the central FHIR terminology server for the Medical Informatics Initiative."
+      - job: "Volunteer"
+        company: "German Federal Agency for Technical Relief (THW)"
+        date: "September 2021 - present"
+        companyUrl: "https://www.thw.de/EN"
+        info:
+          enable: false
+        content: "I'm currently working in the SU-TermServ project and am the chief maintainer of the central FHIR terminology server for the Medical Informatics Initiative."
+  
+  education:
+    enable: true
+    index: false
+    items:
+      - title: "PhD Programme, Medical Informatics"
+        school:
+          name: "University of Luebeck, Germany"
+        date: "ongoing"
+      - title: "Master of Science, Medical Informatics"
+        school:
+          name: "University of Luebeck, Germany"
+        date: "2018-2020"
+      - title: "Bachelor of Science, Medical Informatics"
+        school:
+          name: "University of Luebeck, Germany"
+        date: "2014-2018"
+
+  contact:
+    enable: true
+    title: Contact
+    content: Please reach out via [Bluesky DM!](https://bsky.app/profile/wiedekopf.net)
+
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: false
