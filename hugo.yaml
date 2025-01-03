@@ -39,7 +39,7 @@ params:
     secondaryColor: "#fff"
   navbar:
     disableSearch: true
-    brandLogo: images/apple-touch-icon.png
+    brandLogo: /images/apple-touch-icon.png
     brandSize: 64
     menus:
       disableContact: true
