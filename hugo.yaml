@@ -5,6 +5,8 @@ theme:
   - hugo-profile
   - hugo-cite
 
+enableRobotsTXT: true
+
 Menus:
   main:
     - identifier: publications
@@ -12,10 +14,16 @@ Menus:
       title: Publications
       url: /publications
       weight: 1
+    - identifier: blog
+      name: Blog
+      title: Blog
+      url: /blogs
+      weight: 2
 
 params:
-  title: "Joshua Wiedekopf"
-  description: "Personal page for Joshua Wiedekopf"
+  title: "Joshua P. Wiedekopf"
+  description: "Personal page for Joshua Philip Wiedekopf"
+  favicon: /images/favicon-32x32.png
   useBootstrapCDN: true
   animate: true
   theme:
@@ -31,6 +39,8 @@ params:
     secondaryColor: "#fff"
   navbar:
     disableSearch: true
+    brandLogo: /images/apple-touch-icon.png
+    brandSize: 64
     menus:
       disableContact: true
 
@@ -83,7 +93,7 @@ params:
     items:
       - job: "Researcher & PhD Student"
         id: "uzl-uksh-2020"
-        company: "University of Luebeck & University Medical Center, Luebeck, Germany"
+        company: "University of Luebeck & University Medical Center, Lübeck, Germany"
         date: "May 2020 - present"
         featuredLink:
           enable: true
@@ -100,6 +110,14 @@ params:
         info:
           enable: false
         content: "I am active in the German Federal Agency for Technical Relief (Technisches Hilfswerk, THW), the German federal civil defense and disaster relief agency. The THW is entirely volunteer-based. I am currently a platoon leader (Truppführer) in a *Fachgruppe Ortung*, which is responsible for locating missing persons especially in collapsed structure."
+      - job: "Student employment / 3rd Level Support Hospital IT"
+        id: "uksh-itsg-2015-2020"
+        company: "UKSH Gesellschaft für IT Services mbH"
+        date: "December 2015 - January 2020"
+        companyUrl: "https://itsg.uksh.de/"
+        info:
+          enable: false
+        content: "As a student employee, I was hired to facilitate digalization of paper-based patient documentations, but I have made meaningful improvements to the overall digitalization workflow in the UKSH, working towards the end goal of eliminating paper-based processes in the entire hospital. I have also gained lots of meaningful insight into all other areas of the hospital IT landscape. The employment was at the intersection of my studies and my personal interests, and I have greatly enjoyed my time with the company."
   
   education:
     enable: true
