@@ -23,7 +23,7 @@ Menus:
 params:
   title: "Joshua P. Wiedekopf"
   description: "Personal page for Joshua Philip Wiedekopf"
-  favicon: /images/favicon-32x32.png
+  favicon: images/favicon-32x32.png
   useBootstrapCDN: true
   animate: true
   theme:
@@ -39,7 +39,7 @@ params:
     secondaryColor: "#fff"
   navbar:
     disableSearch: true
-    brandLogo: /images/apple-touch-icon.png
+    brandLogo: images/apple-touch-icon.png
     brandSize: 64
     menus:
       disableContact: true
@@ -77,7 +77,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me-thw.png"
+    image: "images/me-thw.png"
     content: |-
       By day, I'm a researcher in Medical Informatics at the University of Luebeck, Germany. 
       I work with a passion towards better semantic interoperability in German healthcare systems 
