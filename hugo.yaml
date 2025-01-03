@@ -43,7 +43,7 @@ params:
     content: "My things work towards healthcare systems working better together through the use of controlled terminology and HL7 FHIR Terminology Servers 🔥"
     image: /images/me.png
     bottomImage:
-      enable: true
+      enable: false
     roundImage: true # Make hero image circular | default false
     button:
       enable: true
@@ -60,6 +60,8 @@ params:
           url: https://gitlab.com/mii-termserv/
         - icon: "fa-brands fa-linkedin"
           url: https://www.linkedin.com/in/jpwiedekopf
+        - icon: "fa-brands fa-threads"
+          url: https://www.threads.net/@jpwiedekopf
         - icon: "fa-brands fa-bluesky"
           url: https://bsky.app/profile/wiedekopf.net
   about:
@@ -80,6 +82,7 @@ params:
     enable: true
     items:
       - job: "Researcher & PhD Student"
+        id: "uzl-uksh-2020"
         company: "University of Luebeck & University Medical Center, Luebeck, Germany"
         date: "May 2020 - present"
         featuredLink:
@@ -89,13 +92,14 @@ params:
         info:
           enable: false
         content: "I'm currently working in the SU-TermServ project and am the chief maintainer of the central FHIR terminology server for the Medical Informatics Initiative."
-      - job: "Volunteer"
-        company: "German Federal Agency for Technical Relief (THW)"
+      - job: "Volunteer in Civil Defense"
+        id: "thw-luebeck-2021"
+        company: "German Federal Agency for Technical Relief (THW), Ortsverband Luebeck, Germany"
         date: "September 2021 - present"
         companyUrl: "https://www.thw.de/EN"
         info:
           enable: false
-        content: "I'm currently working in the SU-TermServ project and am the chief maintainer of the central FHIR terminology server for the Medical Informatics Initiative."
+        content: "I am active in the German Federal Agency for Technical Relief (Technisches Hilfswerk, THW), the German federal civil defense and disaster relief agency. The THW is entirely volunteer-based. I am currently a platoon leader (Truppführer) in a *Fachgruppe Ortung*, which is responsible for locating missing persons especially in collapsed structure."
   
   education:
     enable: true
