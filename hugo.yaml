@@ -20,6 +20,9 @@ Menus:
       url: /blogs
       weight: 2
 
+taxonomies:
+  tag: tags
+
 params:
   title: "Joshua P. Wiedekopf"
   description: "Personal page for Joshua Philip Wiedekopf"
