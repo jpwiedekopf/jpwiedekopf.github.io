@@ -1,7 +1,7 @@
 ---
 title: "FHIR JSON Schemas for VS Code and Zed"
 date: 2025-01-03T14:00:00
-updated: 2025-01-21T12:00:00
+lastmod: 2025-01-21T12:00:00
 draft: false
 tags:
   - FHIR
