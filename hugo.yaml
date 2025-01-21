@@ -1,7 +1,7 @@
 baseURL: https://wiedekopf.net/
 languageCode: en-us
 title: Joshua Wiedekopf
-theme: 
+theme:
   - hugo-profile
   - hugo-cite
 
@@ -24,6 +24,7 @@ taxonomies:
   tag: tags
 
 params:
+  deploymentUri: "https://wiedekopf.net"
   title: "Joshua P. Wiedekopf"
   description: "Personal page for Joshua Philip Wiedekopf"
   favicon: images/favicon-32x32.png
@@ -36,7 +37,7 @@ params:
     textColor: "#fff"
     secondaryTextColor: "#fff"
     textLinkColor: "#ff0"
-    backgroundColor: "#003399" 
+    backgroundColor: "#003399"
     secondaryBackgroundColor: "#ff0"
     primaryColor: "#ff0"
     secondaryColor: "#fff"
@@ -82,12 +83,12 @@ params:
     title: "About Me"
     image: "/images/me-thw.png"
     content: |-
-      By day, I'm a researcher in Medical Informatics at the University of Luebeck, Germany. 
-      I work with a passion towards better semantic interoperability in German healthcare systems 
+      By day, I'm a researcher in Medical Informatics at the University of Luebeck, Germany.
+      I work with a passion towards better semantic interoperability in German healthcare systems
       within the [Medical Informatics Initiative](https://www.medizininformatik-initiative.de/en/start) and
       [Network University Medicine](https://www.netzwerk-universitaetsmedizin.de/en/about-us/network-of-university-medicine)
       through the [SU-TermServ project](https://mii-termserv.de/en) and am responsible for the central
-      FHIR 🔥 terminology server of the MII. 
+      FHIR 🔥 terminology server of the MII.
 
       By night, I volunteer in the [German Federal Agency for Technical Relief](https://www.thw.de), the German civil defense agency.
 
@@ -121,7 +122,7 @@ params:
         info:
           enable: false
         content: "As a student employee, I was hired to facilitate digalization of paper-based patient documentations, but I have made meaningful improvements to the overall digitalization workflow in the UKSH, working towards the end goal of eliminating paper-based processes in the entire hospital. I have also gained lots of meaningful insight into all other areas of the hospital IT landscape. The employment was at the intersection of my studies and my personal interests, and I have greatly enjoyed my time with the company."
-  
+
   education:
     enable: true
     index: false
