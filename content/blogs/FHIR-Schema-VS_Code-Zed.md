@@ -7,6 +7,8 @@ tags:
   - FHIR
   - Code
 summary: "Getting better code completion and validation for FHIR resources in VS Code and Zed for those stubborn people who still write JSON by hand."
+aliases:
+  - /blogs/fhir-schema-vs_code/
 ---
 
 _Update on 2025-01-21 to add configuration for [Zed](https://zed.dev/)_
