@@ -84,6 +84,6 @@ For the global settings, open the settings file using the `zed: open settings` a
 
 For reference: The following files are currently hosted at this site:
 
-- `https://wiedekopf.net/data/fhir-r4.schema.json`
-- `https://wiedekopf.net/data/fhir-r4b.schema.json`
-- `https://wiedekopf.net/data/fhir-r5.schema.json`
+- {{< code-link href="https://wiedekopf.net/data/fhir-r4.schema.json" >}}
+- {{< code-link href="https://wiedekopf.net/data/fhir-r4b.schema.json" >}}
+- {{< code-link href="https://wiedekopf.net/data/fhir-r5.schema.json" >}}
