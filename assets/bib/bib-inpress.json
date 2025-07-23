@@ -1,0 +1,21 @@
+[
+  {
+    "id": "wiedekopf2025BabelFSHToolkitEffective",
+    "accessed": { "date-parts": [["2025", 7, 23]] },
+    "author": [
+      { "family": "Wiedekopf", "given": "Joshua" },
+      { "family": "Ohlsen", "given": "Tessa" },
+      { "family": "Kock-Schoppenhauer", "given": "Ann-Kristin" },
+      { "family": "Ingenerf", "given": "Josef" }
+    ],
+    "citation-key": "wiedekopf2025BabelFSHToolkitEffective",
+    "DOI": "10.21203/rs.3.rs-6992162/v1",
+    "issued": { "date-parts": [["2025", 7, 23]] },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Springer Science and Business Media LLC",
+    "source": "Crossref",
+    "title": "BabelFSH—A Toolkit for an Effective HL7 FHIR-based Terminology Provision",
+    "type": "article",
+    "URL": "https://www.researchsquare.com/article/rs-6992162/v1"
+  }
+]

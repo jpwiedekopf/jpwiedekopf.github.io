@@ -1,5 +1,102 @@
 [
-  {"id":"kinast2025ExtractingLOINCCodes","accessed":{"date-parts":[["2025",6,19]]},"author":[{"family":"Kinast","given":"Benjamin"},{"family":"Wiedekopf","given":"Joshua"},{"family":"Ulrich","given":"Hannes"},{"family":"Schreiweis","given":"Björn"}],"citation-key":"kinast2025ExtractingLOINCCodes","container-title":"Studies in Health Technology and Informatics","DOI":"10.3233/SHTI250194","editor":[{"family":"Baumgartner","given":"Martin"},{"family":"Hayn","given":"Dieter"},{"family":"Pfeifer","given":"Bernhard"},{"family":"Schreier","given":"Günter"}],"ISBN":"978-1-64368-592-2","issued":{"date-parts":[["2025",4,24]]},"license":"https://creativecommons.org/licenses/by-nc/4.0/","publisher":"IOS Press","source":"DOI.org (Crossref)","title":"Extracting LOINC Codes from a Laboratory Information System’s Index: Addressing Semantic Interoperability with Web Scraping","title-short":"Extracting LOINC Codes from a Laboratory Information System’s Index","type":"chapter","URL":"https://ebooks.iospress.nl/doi/10.3233/SHTI250194"},
-  {"id":"ohlsen2025GeneratingFHIRConceptMap","accessed":{"date-parts":[["2025",6,19]]},"author":[{"family":"Ohlsen","given":"Tessa"},{"family":"Ingenerf","given":"Josef"},{"family":"Wiedekopf","given":"Joshua"}],"citation-key":"ohlsen2025GeneratingFHIRConceptMap","container-title":"Studies in Health Technology and Informatics","DOI":"10.3233/SHTI250614","editor":[{"family":"Andrikopoulou","given":"Elisavet"},{"family":"Gallos","given":"Parisis"},{"family":"Arvanitis","given":"Theodoros N."},{"family":"Austin","given":"Rosalynn"},{"family":"Benis","given":"Arriel"},{"family":"Cornet","given":"Ronald"},{"family":"Chatzistergos","given":"Panagiotis"},{"family":"Dejaco","given":"Alexander"},{"family":"Dusseljee-Peute","given":"Linda"},{"family":"Mohasseb","given":"Alaa"},{"family":"Natsiavas","given":"Pantelis"},{"family":"Nakkas","given":"Haythem"},{"family":"Scott","given":"Philip"}],"ISBN":"978-1-64368-596-0","issued":{"date-parts":[["2025",5,15]]},"license":"https://creativecommons.org/licenses/by-nc/4.0/","publisher":"IOS Press","source":"DOI.org (Crossref)","title":"Generating a FHIR ConceptMap from WHO’s ICD-10 to ICD-11 Mapping Tables","type":"chapter","URL":"https://ebooks.iospress.nl/doi/10.3233/SHTI250614"},
-  {"id":"wiedekopf2025TerminologyServerChallenge","accessed":{"date-parts":[["2025",6,19]]},"author":[{"family":"Wiedekopf","given":"Joshua"},{"family":"Ohlsen","given":"Tessa"},{"family":"Schladetzky","given":"Jan"},{"family":"Sass","given":"Julian"},{"family":"Ingenerf","given":"Josef"}],"citation-key":"wiedekopf2025TerminologyServerChallenge","container-title":"Studies in Health Technology and Informatics","DOI":"10.3233/SHTI250271","editor":[{"family":"Andrikopoulou","given":"Elisavet"},{"family":"Gallos","given":"Parisis"},{"family":"Arvanitis","given":"Theodoros N."},{"family":"Austin","given":"Rosalynn"},{"family":"Benis","given":"Arriel"},{"family":"Cornet","given":"Ronald"},{"family":"Chatzistergos","given":"Panagiotis"},{"family":"Dejaco","given":"Alexander"},{"family":"Dusseljee-Peute","given":"Linda"},{"family":"Mohasseb","given":"Alaa"},{"family":"Natsiavas","given":"Pantelis"},{"family":"Nakkas","given":"Haythem"},{"family":"Scott","given":"Philip"}],"ISBN":"978-1-64368-596-0","issued":{"date-parts":[["2025",5,15]]},"license":"https://creativecommons.org/licenses/by-nc/4.0/","publisher":"IOS Press","source":"DOI.org (Crossref)","title":"The Terminology Server Challenge 2023","type":"chapter","URL":"https://ebooks.iospress.nl/doi/10.3233/SHTI250271"}
+  {
+    "id": "kinast2025ExtractingLOINCCodes",
+    "accessed": { "date-parts": [["2025", 6, 19]] },
+    "author": [
+      { "family": "Kinast", "given": "Benjamin" },
+      { "family": "Wiedekopf", "given": "Joshua" },
+      { "family": "Ulrich", "given": "Hannes" },
+      { "family": "Schreiweis", "given": "Björn" }
+    ],
+    "citation-key": "kinast2025ExtractingLOINCCodes",
+    "container-title": "Studies in Health Technology and Informatics",
+    "DOI": "10.3233/SHTI250194",
+    "editor": [
+      { "family": "Baumgartner", "given": "Martin" },
+      { "family": "Hayn", "given": "Dieter" },
+      { "family": "Pfeifer", "given": "Bernhard" },
+      { "family": "Schreier", "given": "Günter" }
+    ],
+    "ISBN": "978-1-64368-592-2",
+    "issued": { "date-parts": [["2025", 4, 24]] },
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "IOS Press",
+    "source": "DOI.org (Crossref)",
+    "title": "Extracting LOINC Codes from a Laboratory Information System’s Index: Addressing Semantic Interoperability with Web Scraping",
+    "title-short": "Extracting LOINC Codes from a Laboratory Information System’s Index",
+    "type": "chapter",
+    "URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI250194"
+  },
+  {
+    "id": "ohlsen2025GeneratingFHIRConceptMap",
+    "accessed": { "date-parts": [["2025", 6, 19]] },
+    "author": [
+      { "family": "Ohlsen", "given": "Tessa" },
+      { "family": "Ingenerf", "given": "Josef" },
+      { "family": "Wiedekopf", "given": "Joshua" }
+    ],
+    "citation-key": "ohlsen2025GeneratingFHIRConceptMap",
+    "container-title": "Studies in Health Technology and Informatics",
+    "DOI": "10.3233/SHTI250614",
+    "editor": [
+      { "family": "Andrikopoulou", "given": "Elisavet" },
+      { "family": "Gallos", "given": "Parisis" },
+      { "family": "Arvanitis", "given": "Theodoros N." },
+      { "family": "Austin", "given": "Rosalynn" },
+      { "family": "Benis", "given": "Arriel" },
+      { "family": "Cornet", "given": "Ronald" },
+      { "family": "Chatzistergos", "given": "Panagiotis" },
+      { "family": "Dejaco", "given": "Alexander" },
+      { "family": "Dusseljee-Peute", "given": "Linda" },
+      { "family": "Mohasseb", "given": "Alaa" },
+      { "family": "Natsiavas", "given": "Pantelis" },
+      { "family": "Nakkas", "given": "Haythem" },
+      { "family": "Scott", "given": "Philip" }
+    ],
+    "ISBN": "978-1-64368-596-0",
+    "issued": { "date-parts": [["2025", 5, 15]] },
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "IOS Press",
+    "source": "DOI.org (Crossref)",
+    "title": "Generating a FHIR ConceptMap from WHO’s ICD-10 to ICD-11 Mapping Tables",
+    "type": "chapter",
+    "URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI250614"
+  },
+  {
+    "id": "wiedekopf2025TerminologyServerChallenge",
+    "accessed": { "date-parts": [["2025", 6, 19]] },
+    "author": [
+      { "family": "Wiedekopf", "given": "Joshua" },
+      { "family": "Ohlsen", "given": "Tessa" },
+      { "family": "Schladetzky", "given": "Jan" },
+      { "family": "Sass", "given": "Julian" },
+      { "family": "Ingenerf", "given": "Josef" }
+    ],
+    "citation-key": "wiedekopf2025TerminologyServerChallenge",
+    "container-title": "Studies in Health Technology and Informatics",
+    "DOI": "10.3233/SHTI250271",
+    "editor": [
+      { "family": "Andrikopoulou", "given": "Elisavet" },
+      { "family": "Gallos", "given": "Parisis" },
+      { "family": "Arvanitis", "given": "Theodoros N." },
+      { "family": "Austin", "given": "Rosalynn" },
+      { "family": "Benis", "given": "Arriel" },
+      { "family": "Cornet", "given": "Ronald" },
+      { "family": "Chatzistergos", "given": "Panagiotis" },
+      { "family": "Dejaco", "given": "Alexander" },
+      { "family": "Dusseljee-Peute", "given": "Linda" },
+      { "family": "Mohasseb", "given": "Alaa" },
+      { "family": "Natsiavas", "given": "Pantelis" },
+      { "family": "Nakkas", "given": "Haythem" },
+      { "family": "Scott", "given": "Philip" }
+    ],
+    "ISBN": "978-1-64368-596-0",
+    "issued": { "date-parts": [["2025", 5, 15]] },
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "IOS Press",
+    "source": "DOI.org (Crossref)",
+    "title": "The Terminology Server Challenge 2023",
+    "type": "chapter",
+    "URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI250271"
+  }
 ]
