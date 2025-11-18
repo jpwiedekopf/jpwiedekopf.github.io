@@ -1,5 +1,45 @@
 [
   {
+    "id": "wiedekopf2025ImplementationHL7FHIRBased",
+    "abstract": "Introduction: As part of the German Medical Informatics Initiative (MII) and Network University Medicine (NUM), a central research terminology service (TS) is provided by the Service Unit Terminology Services (SU-TermServ). This HL7 FHIR-based service depends on the timely and comprehensive availability of FHIR terminology resources to provide the necessary interactions for the distributed MII/NUM infrastructure. While German legislation has recently instituted a national terminology service for medical classifications and terminologies, the scope of the MII and NUM extends beyond routine patient care, encompassing the need for supplementary or specialized services and terminologies that are not commonly utilized elsewhere. Methods: The SU-TermServ’s processes are based on established FHIR principles and the recently-proposed Canonical Resources Management Infrastructure Implementation Guide, which are outlined in this paper. Results: The strategy and processes implemented within the project can deliver the needed resources both to the central FHIR terminology service, but also to the local data integration centers, in a transparent and consistent fashion. The service currently provides approximately 7000 resources to users via the standardized FHIR API. Conclusion: The professionalized distribution and maintenance of these terminological resources and the provision of a powerful TS implementation aids both the development of the Core Data Set and the data integration centers, and ultimately biomedical researchers requesting access to this rich data.",
+    "accessed": { "date-parts": [["2025", 11, 18]] },
+    "author": [
+      { "family": "Wiedekopf", "given": "Joshua" },
+      { "family": "Ohlsen", "given": "Tessa" },
+      { "family": "Koops", "given": "Alan" },
+      { "family": "Kock-Schoppenhauer", "given": "Ann-Kristin" },
+      { "family": "Adnan", "given": "Muhammad" },
+      { "family": "Ballout", "given": "Sarah" },
+      { "family": "Philipzik", "given": "Nele" },
+      { "family": "Beyan", "given": "Oya" },
+      { "family": "Beyer", "given": "Andreas" },
+      { "family": "Marschollek", "given": "Michael" },
+      { "family": "Ingenerf", "given": "Josef" }
+    ],
+    "citation-key": "wiedekopf2025ImplementationHL7FHIRBased",
+    "container-title": "Studies in Health Technology and Informatics",
+    "DOI": "10.3233/SHTI251396",
+    "editor": [
+      { "family": "Röhrig", "given": "Rainer" },
+      { "family": "Ganslandt", "given": "Thomas" },
+      { "family": "Jung", "given": "Klaus" },
+      { "family": "Kock-Schoppenhauer", "given": "Ann-Kristin" },
+      { "family": "König", "given": "Jochem" },
+      { "family": "Sax", "given": "Ulrich" },
+      { "family": "Sedlmayr", "given": "Martin" },
+      { "family": "Spreckelsen", "given": "Cord" },
+      { "family": "Zapf", "given": "Antonia" }
+    ],
+    "ISBN": "978-1-64368-615-8",
+    "issued": { "date-parts": [["2025", 9, 3]] },
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "IOS Press",
+    "source": "DOI.org (Crossref)",
+    "title": "Implementation of HL7 FHIR-Based Terminology Services for a National Federated Health Research Infrastructure",
+    "type": "chapter",
+    "URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI251396"
+  },
+  {
     "id": "kinast2025ExtractingLOINCCodes",
     "accessed": { "date-parts": [["2025", 6, 19]] },
     "author": [

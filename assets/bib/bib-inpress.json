@@ -8,6 +8,7 @@
       { "family": "Kock-Schoppenhauer", "given": "Ann-Kristin" },
       { "family": "Ingenerf", "given": "Josef" }
     ],
+    "container-title": "Journal of Biomedical Semantics (accepted)",
     "citation-key": "wiedekopf2025BabelFSHToolkitEffective",
     "DOI": "10.21203/rs.3.rs-6992162/v1",
     "issued": { "date-parts": [["2025", 7, 23]] },
