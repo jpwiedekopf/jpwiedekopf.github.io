@@ -1,12 +1,16 @@
 ---
 title: Publications
-date: 2025-06-19
+date: 2025-12-03
 toc: false
 ---
+
+<!-- 
 
 ## In-Press Publications
 
 {{< bibliography src="/bib/bib-inpress.json" highlightLastname="Wiedekopf" highlightFirstname="Joshua" >}}
+
+-->
 
 ## 2025
 

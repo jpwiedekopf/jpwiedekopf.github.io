@@ -138,5 +138,24 @@
     "title": "The Terminology Server Challenge 2023",
     "type": "chapter",
     "URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI250271"
+  },
+  {
+    "id": "wiedekopf2025BabelFSHToolkitEffective",
+    "author": [
+      { "family": "Wiedekopf", "given": "Joshua" },
+      { "family": "Ohlsen", "given": "Tessa" },
+      { "family": "Kock-Schoppenhauer", "given": "Ann-Kristin" },
+      { "family": "Ingenerf", "given": "Josef" }
+    ],
+    "container-title": "Journal of Biomedical Semantics",
+    "citation-key": "wiedekopf2025BabelFSHToolkitEffective",
+    "DOI": "10.1186/s13326-025-00343-4",
+    "issued": { "date-parts": [["2025", 11]] },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "publisher": "Springer Science and Business Media LLC",
+    "source": "Crossref",
+    "title": "BabelFSH—A Toolkit for an Effective HL7 FHIR-based Terminology Provision",
+    "type": "article",
+    "URL": "https://doi.org/10.1186/s13326-025-00343-4"
   }
 ]
