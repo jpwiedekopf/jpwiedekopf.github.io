@@ -68,30 +68,6 @@
     "URL": "https://link.springer.com/10.1007/978-3-658-43236-2_31"
   },
   {
-    "id": "kruse2024FML2MirthGenericTransformation",
-    "accessed": { "date-parts": [["2024", 9, 29]] },
-    "author": [
-      { "family": "Kruse", "given": "Jesse" },
-      { "family": "Wiedekopf", "given": "Joshua" },
-      { "family": "Kock-Schoppenhauer", "given": "Ann-Kristin" },
-      { "family": "Essenwanger", "given": "Andrea" },
-      { "family": "Ingenerf", "given": "Josef" },
-      { "family": "Ulrich", "given": "Hannes" }
-    ],
-    "citation-key": "kruse2024FML2MirthGenericTransformation",
-    "container-title": "JMIR Medical Informatics",
-    "DOI": "10.2196/57569",
-    "ISSN": "2291-9694",
-    "issued": { "date-parts": [["2024", 2, 20]] },
-    "language": "en",
-    "license": "All rights reserved",
-    "source": "DOI.org (Crossref)",
-    "title": "FML2Mirth: Generic Transformation of complex laboratory data based on FML mapping rules and automatically generated Mirth channels (Preprint)",
-    "title-short": "FML2Mirth",
-    "type": "article-journal",
-    "URL": "http://preprints.jmir.org/preprint/57569/accepted"
-  },
-  {
     "id": "kruseGenericTransformationApproach2024",
     "accessed": { "date-parts": [["2024", 10, 21]] },
     "author": [
