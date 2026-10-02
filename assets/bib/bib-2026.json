@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sass2026LocallyDeployableFHIR",
+    "accessed": { "date-parts": [["2026", 10, 2]] },
+    "author": [
+      { "family": "Saß", "given": "Julian" },
+      { "family": "Kiel", "given": "Alexander" },
+      { "family": "Wiedekopf", "given": "Joshua" },
+      { "family": "Gruendner", "given": "Julian" },
+      { "family": "Kurscheidt", "given": "Maximilian" }
+    ],
+    "citation-key": "sass2026LocallyDeployableFHIR",
+    "container-title": "Studies in Health Technology and Informatics",
+    "DOI": "10.3233/SHTI260987",
+    "editor": [
+      { "family": "Sax", "given": "Ulrich" },
+      { "family": "Ganslandt", "given": "Thomas" },
+      { "family": "Breitschwerdt", "given": "Rüdiger" },
+      { "family": "Jung", "given": "Klaus" },
+      { "family": "König", "given": "Jochem" },
+      { "family": "Großhennig", "given": "Anika" }
+    ],
+    "ISBN": "978-1-64368-687-5",
+    "issued": { "date-parts": [["2026", 9, 17]] },
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "publisher": "IOS Press",
+    "source": "DOI.org (Crossref)",
+    "title": "A Locally Deployable FHIR Validation Service for Federated Health Data Infrastructures – A Technical Case Report",
+    "type": "chapter",
+    "URL": "https://ebooks.iospress.nl/doi/10.3233/SHTI260987"
+  }
+]

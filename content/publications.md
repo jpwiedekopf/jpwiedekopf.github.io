@@ -4,13 +4,9 @@ date: 2025-12-03
 toc: false
 ---
 
-<!-- 
+## 2026
 
-## In-Press Publications
-
-{{< bibliography src="/bib/bib-inpress.json" highlightLastname="Wiedekopf" highlightFirstname="Joshua" >}}
-
--->
+{{< bibliography src="/bib/bib-2026.json" highlightLastname="Wiedekopf" highlightFirstname="Joshua" >}}
 
 ## 2025
 
